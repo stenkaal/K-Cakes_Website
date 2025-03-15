@@ -1,2 +1,2 @@
-# ImpracticalWebsite
-It's a website but it's  impractical
+# K-Cakes website
+Cake ordering platform.
